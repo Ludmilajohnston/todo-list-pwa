@@ -1,5 +1,5 @@
 {
-  "name": "To-do List PWA",
+  "name": "To-do List",
   "short_name": "To-do",
   "start_url": ".",
   "display": "standalone",
